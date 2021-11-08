@@ -16,9 +16,8 @@ A personal portfolio created with React.js featuring my selected works, skills, 
 - NPM
 
 ## Installation
-Go to cd Server and npm install to install dependencies.
 
-Node server.js to initiate app.
+<a href="https://blooming-river-08717.herokuapp.com/">Deployed Link</a>
 
 
 ## Questions
